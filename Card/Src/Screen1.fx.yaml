@@ -1,7 +1,8 @@
 Screen1 As screen:
 
     TextInput1 As text:
-        Default: ="Text input"
+        Default: ="Text input2"
+        isRequired: =true
         X: =200
         Y: =40
         ZIndex: =1
