@@ -2,7 +2,7 @@ Screen1 As screen:
 
     TextInput1 As text:
         Default: ="Text input"
-        X: =40
+        X: =200
         Y: =40
         maxLength: =200
         ZIndex: =1
