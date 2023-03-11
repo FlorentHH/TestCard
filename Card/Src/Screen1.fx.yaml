@@ -4,6 +4,6 @@ Screen1 As screen:
         Default: ="Text input"
         X: =200
         Y: =40
-        maxLength: =200
+        maxLength: =5
         ZIndex: =1
 
